@@ -1,0 +1,205 @@
+
+
+.grow1 {
+    flex-grow: 1;
+}
+
+.grow2 {
+    flex-grow: 2;
+}
+
+.grow3 {
+    flex-grow: 3;
+}
+
+.grow4 {
+    flex-grow: 4;
+}
+
+.grow5 {
+    flex-grow: 5;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.p-20 {
+    padding: 20px;
+}
+.p-50{
+    padding: 50px;
+}
+
+.gap-20 {
+    gap: 20px;
+}
+
+.j-between {
+    justify-content: space-between;
+}
+
+
+
+.transform-scale {
+    scale: 1.2;
+}
+
+.j-row {
+    flex-direction: row;
+}
+
+
+
+
+.j-center {
+    justify-content: center;
+}
+
+
+.fontsize-bold {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.font-size {
+    font-size: 70px;
+}
+
+.gap-50 {
+    gap: 50px;
+}
+
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+
+.none {
+    display: none;
+}
+
+.block {
+    display: block;
+}
+
+.cart {
+    display: none;
+}
+
+.flex {
+    display: flex;
+}
+
+
+
+
+.p-10 {
+    padding: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.first-player{
+    padding: 10px;
+    min-height: 300px;
+    border: 2px solid #539153;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #539153;
+    background-color: #b1d8b1;
+}
+
+.second-player{
+    padding: 10px;
+    min-height: 300px;
+    border: 2px solid #539153;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #539153;
+    background-color: #b1d8b1;
+}
+
+.own-card{
+    height: 70px;
+    width: 50px;
+    background-color: #d6d2d2;
+}
+
+img{
+
+    height: 250px;
+}
+
+.board {
+    display: flex;
+
+}
+
+.monopoly-card {
+    padding:5px;
+    width: 150px;
+    min-width: 150px;
+    height: 200px;
+    margin: 5px;
+    border: 2px solid black;
+    background-color: #d1f4d1;
+
+
+}
+
+.card-color {
+    width: 100%;
+    height: 20px;
+}
+
+.first-player-position{
+    font-size: 30px;
+}
+
+.second-player-position{
+    font-size: 30px;
+}
+
+.monopoly-container{
+    margin: 10px;
+    width: 1600px;
+    background-color: #d1f4d1;
+    border: 3px solid #65a165;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #dfdbdb;
+
+}
+
+.icons-style{
+    font-size: 50px;
+}
+
+.position-absolute{
+    position: absolute;
+    z-index: 1;
+}
+
+.house-count {
+    font-size: 0.8em;
+    color: #28a745;
+    margin-top: 5px;
+}
+
+.own-card {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    min-width: 120px;
+    text-align: center;
+}
